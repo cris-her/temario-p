@@ -42,3 +42,36 @@ Identificación, respuesta y control de riesgos
 ¿Cómo se cierra un proyecto?  
 Certificaciones disponibles y campos posibles de trabajo  
 Recomendación de aplicaciones que te ayudarán en la gestión de cualquier proyecto  
+
+---
+
+**Introducción**  
+Introducción al curso y prerequisitos del curso  
+¿Qué es GraphQL?  
+**Conceptos básicos**  
+Schema y types  
+Queries y Resolvers  
+Sirviendo el API en la web  
+Custom Types  
+Argumentos  
+Configuración de base de datos  
+Integrando una base de datos  
+Mutations e Inputs  
+Repaso - Creando el tipo Estudiante  
+Nested Types  
+Resolver de tipos  
+Errores  
+**Conceptos avanzados**  
+Alias y fragments  
+Variables  
+Enums  
+Interfaces - Tipo Monitor  
+Directivas  
+Unions  
+**Consumiendo el API**  
+Preparando API para producción  
+HTTP requests  
+Clientes de GraphQL  
+Consumiendo el API desde un frontend simple  
+Cierre del curso  
+
