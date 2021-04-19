@@ -48,6 +48,7 @@ Recomendación de aplicaciones que te ayudarán en la gestión de cualquier proy
 **Introducción**  
 Introducción al curso y prerequisitos del curso  
 ¿Qué es GraphQL?  
+
 **Conceptos básicos**  
 Schema y types  
 Queries y Resolvers  
@@ -61,6 +62,7 @@ Repaso - Creando el tipo Estudiante
 Nested Types  
 Resolver de tipos  
 Errores  
+
 **Conceptos avanzados**  
 Alias y fragments  
 Variables  
@@ -68,10 +70,13 @@ Enums
 Interfaces - Tipo Monitor  
 Directivas  
 Unions  
+
 **Consumiendo el API**  
 Preparando API para producción  
 HTTP requests  
 Clientes de GraphQL  
 Consumiendo el API desde un frontend simple  
 Cierre del curso  
+
+---
 
