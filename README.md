@@ -43,6 +43,38 @@ Identificación, respuesta y control de riesgos
 ¿Cómo se cierra un proyecto?  
 Certificaciones disponibles y campos posibles de trabajo  
 Recomendación de aplicaciones que te ayudarán en la gestión de cualquier proyecto  
+---
+
+¿Cuando comenzaríamos a trabajar y cuando se tiene contemplado finalizar el proyecto?
+¿Cuál es el proyecto que se tiene pensado?
+¿Cuál es el resultado que se espera obtener del proyecto?
+¿Quién dirige y gestiona un proyecto? 
+¿Cuál es el motivo por el que están realizando el proyecto?
+¿Quién se beneficia del proyecto?
+¿como se van a dividir las actividades?
+¿cuál es el plazo de las actividades?
+¿con que recursos se cuenta? 
+¿De que ambito es el proyecto?
+¿Cual es su orientacion, social o comunitaria?
+¿es un proyecto de investigacion ?
+¿es un proyecto personal?
+¿con cuanto presupuesto se cuenta ?
+¿Que tipo de proyecto es, pequeño, mediano, grande?
+¿Que tipo de actividades se van a llevar a cabo?
+¿Cual es la vision de la empresa? ¿Que otras personas laboran aqui?  ¿Cual es la planificacion que tienen ?
+¿Cual es el costo de cada actividad?
+¿Cada cuando tendriamos videollamada para hablar de los avances?
+¿Como es el ambiente de trabajo?
+personal de la direccion de proyectos → ¿?
+personal de proyecto → ¿?
+expertos de apoyo → ¿?
+reprensetantes del cliente → ¿?
+vendedores → ¿Quienes integran el proyecto?
+¿ dias y turnos de trabajo  ?
+¿Hay recompensas o bonos ?
+¿Cuales son las actividades criticas?
+¿Ya se tiene contemplado el pago de servicios requeridos?
+¿Cuales son la metricas para saber que el proyecto esta terminado ?
 
 ---
 # Curso Básico de GraphQL  
