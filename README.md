@@ -36,7 +36,7 @@ Plan para la gestión del personal
 Identificación, respuesta y control de riesgos  
 ¿Cómo se manejan los cambios en un proyecto? Conoce algunos ejemplos de crisis en la vida real y las lecciones aprendidas  
 
-**Cerrar ciclos y proyectarse profesionalmente**
+**Cerrar ciclos y proyectarse profesionalmente**  
 ¿Cómo se cierra un proyecto?  
 Certificaciones disponibles y campos posibles de trabajo  
 Recomendación de aplicaciones que te ayudarán en la gestión de cualquier proyecto  
