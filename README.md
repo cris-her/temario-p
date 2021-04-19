@@ -4,7 +4,7 @@ bootstrap / jquery
 
 asp .net / xamarin / blazor
 
-react / angular / react native / node
+angular / react / node / react native 
 
 php
 
