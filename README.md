@@ -1,15 +1,15 @@
 # temario-p
 
-bootstrap y jquery
+bootstrap / jquery
 
-csharp - asp net / xamarin
+asp .net / xamarin / blazor
 
-js - react, angular / react native
+react / angular / react native / node
 
-dart - flutter
+flutter
 
-android - kotlin
+kotlin
 
 graphql
 
-python - flask 
+flask 
